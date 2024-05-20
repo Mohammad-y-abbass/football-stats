@@ -1,381 +1,324 @@
-Round,Date,Team 1,FT,Team 2
-1,Sat Sep 12 2020,Fulham,0–3,Arsenal
-1,Sat Sep 12 2020,Crystal Palace,1–0,Southampton
-1,Sat Sep 12 2020,Liverpool,4–3,Leeds United
-1,Sat Sep 12 2020,West Ham,0–2,Newcastle Utd
-1,Sun Sep 13 2020,West Brom,0–3,Leicester City
-1,Sun Sep 13 2020,Tottenham,0–1,Everton
-1,Mon Sep 14 2020,Sheffield Utd,0–2,Wolves
-1,Mon Sep 14 2020,Brighton,1–3,Chelsea
-1,Tue Jan 12 2021(P),Burnley,0–1,Manchester Utd
-1,Wed Jan 20 2021(P),Manchester City,2–0,Aston Villa
-2,Sat Sep 19 2020,Everton,5–2,West Brom
-2,Sat Sep 19 2020,Leeds United,4–3,Fulham
-2,Sat Sep 19 2020,Manchester Utd,1–3,Crystal Palace
-2,Sat Sep 19 2020,Arsenal,2–1,West Ham
-2,Sun Sep 20 2020,Southampton,2–5,Tottenham
-2,Sun Sep 20 2020,Newcastle Utd,0–3,Brighton
-2,Sun Sep 20 2020,Chelsea,0–2,Liverpool
-2,Sun Sep 20 2020,Leicester City,4–2,Burnley
-2,Mon Sep 21 2020,Aston Villa,1–0,Sheffield Utd
-2,Mon Sep 21 2020,Wolves,1–3,Manchester City
-3,Sat Sep 26 2020,Brighton,2–3,Manchester Utd
-3,Sat Sep 26 2020,Crystal Palace,1–2,Everton
-3,Sat Sep 26 2020,West Brom,3–3,Chelsea
-3,Sat Sep 26 2020,Burnley,0–1,Southampton
-3,Sun Sep 27 2020,Sheffield Utd,0–1,Leeds United
-3,Sun Sep 27 2020,Tottenham,1–1,Newcastle Utd
-3,Sun Sep 27 2020,Manchester City,2–5,Leicester City
-3,Sun Sep 27 2020,West Ham,4–0,Wolves
-3,Mon Sep 28 2020,Fulham,0–3,Aston Villa
-3,Mon Sep 28 2020,Liverpool,3–1,Arsenal
-4,Sat Oct 03 2020,Chelsea,4–0,Crystal Palace
-4,Sat Oct 03 2020,Everton,4–2,Brighton
-4,Sat Oct 03 2020,Leeds United,1–1,Manchester City
-4,Sat Oct 03 2020,Newcastle Utd,3–1,Burnley
-4,Sun Oct 04 2020,Southampton,2–0,West Brom
-4,Sun Oct 04 2020,Leicester City,0–3,West Ham
-4,Sun Oct 04 2020,Arsenal,2–1,Sheffield Utd
-4,Sun Oct 04 2020,Wolves,1–0,Fulham
-4,Sun Oct 04 2020,Manchester Utd,1–6,Tottenham
-4,Sun Oct 04 2020,Aston Villa,7–2,Liverpool
-5,Sat Oct 17 2020,Everton,2–2,Liverpool
-5,Sat Oct 17 2020,Chelsea,3–3,Southampton
-5,Sat Oct 17 2020,Manchester City,1–0,Arsenal
-5,Sat Oct 17 2020,Newcastle Utd,1–4,Manchester Utd
-5,Sun Oct 18 2020,Sheffield Utd,1–1,Fulham
-5,Sun Oct 18 2020,Crystal Palace,1–1,Brighton
-5,Sun Oct 18 2020,Tottenham,3–3,West Ham
-5,Sun Oct 18 2020,Leicester City,0–1,Aston Villa
-5,Mon Oct 19 2020,West Brom,0–0,Burnley
-5,Mon Oct 19 2020,Leeds United,0–1,Wolves
-6,Fri Oct 23 2020,Aston Villa,0–3,Leeds United
-6,Sat Oct 24 2020,West Ham,1–1,Manchester City
-6,Sat Oct 24 2020,Fulham,1–2,Crystal Palace
-6,Sat Oct 24 2020,Manchester Utd,0–0,Chelsea
-6,Sat Oct 24 2020,Liverpool,2–1,Sheffield Utd
-6,Sun Oct 25 2020,Southampton,2–0,Everton
-6,Sun Oct 25 2020,Wolves,1–1,Newcastle Utd
-6,Sun Oct 25 2020,Arsenal,0–1,Leicester City
-6,Mon Oct 26 2020,Brighton,1–1,West Brom
-6,Mon Oct 26 2020,Burnley,0–1,Tottenham
-7,Fri Oct 30 2020,Wolves,2–0,Crystal Palace
-7,Sat Oct 31 2020,Sheffield Utd,0–1,Manchester City
-7,Sat Oct 31 2020,Burnley,0–3,Chelsea
-7,Sat Oct 31 2020,Liverpool,2–1,West Ham
-7,Sun Nov 01 2020,Aston Villa,3–4,Southampton
-7,Sun Nov 01 2020,Newcastle Utd,2–1,Everton
-7,Sun Nov 01 2020,Manchester Utd,0–1,Arsenal
-7,Sun Nov 01 2020,Tottenham,2–1,Brighton
-7,Mon Nov 02 2020,Fulham,2–0,West Brom
-7,Mon Nov 02 2020,Leeds United,1–4,Leicester City
-8,Fri Nov 06 2020,Brighton,0–0,Burnley
-8,Fri Nov 06 2020,Southampton,2–0,Newcastle Utd
-8,Sat Nov 07 2020,Everton,1–3,Manchester Utd
-8,Sat Nov 07 2020,Crystal Palace,4–1,Leeds United
-8,Sat Nov 07 2020,Chelsea,4–1,Sheffield Utd
-8,Sat Nov 07 2020,West Ham,1–0,Fulham
-8,Sun Nov 08 2020,West Brom,0–1,Tottenham
-8,Sun Nov 08 2020,Leicester City,1–0,Wolves
-8,Sun Nov 08 2020,Manchester City,1–1,Liverpool
-8,Sun Nov 08 2020,Arsenal,0–3,Aston Villa
-9,Sat Nov 21 2020,Newcastle Utd,0–2,Chelsea
-9,Sat Nov 21 2020,Aston Villa,1–2,Brighton
-9,Sat Nov 21 2020,Tottenham,2–0,Manchester City
-9,Sat Nov 21 2020,Manchester Utd,1–0,West Brom
-9,Sun Nov 22 2020,Fulham,2–3,Everton
-9,Sun Nov 22 2020,Sheffield Utd,0–1,West Ham
-9,Sun Nov 22 2020,Leeds United,0–0,Arsenal
-9,Sun Nov 22 2020,Liverpool,3–0,Leicester City
-9,Mon Nov 23 2020,Burnley,1–0,Crystal Palace
-9,Mon Nov 23 2020,Wolves,1–1,Southampton
-10,Fri Nov 27 2020,Crystal Palace,0–2,Newcastle Utd
-10,Sat Nov 28 2020,Brighton,1–1,Liverpool
-10,Sat Nov 28 2020,Manchester City,5–0,Burnley
-10,Sat Nov 28 2020,Everton,0–1,Leeds United
-10,Sat Nov 28 2020,West Brom,1–0,Sheffield Utd
-10,Sun Nov 29 2020,Southampton,2–3,Manchester Utd
-10,Sun Nov 29 2020,Chelsea,0–0,Tottenham
-10,Sun Nov 29 2020,Arsenal,1–2,Wolves
-10,Mon Nov 30 2020,Leicester City,1–2,Fulham
-10,Mon Nov 30 2020,West Ham,2–1,Aston Villa
-11,Sat Dec 05 2020,Burnley,1–1,Everton
-11,Sat Dec 05 2020,Manchester City,2–0,Fulham
-11,Sat Dec 05 2020,West Ham,1–3,Manchester Utd
-11,Sat Dec 05 2020,Chelsea,3–1,Leeds United
-11,Sun Dec 06 2020,West Brom,1–5,Crystal Palace
-11,Sun Dec 06 2020,Sheffield Utd,1–2,Leicester City
-11,Sun Dec 06 2020,Tottenham,2–0,Arsenal
-11,Sun Dec 06 2020,Liverpool,4–0,Wolves
-11,Mon Dec 07 2020,Brighton,1–2,Southampton
-11,Sat Jan 23 2021(P),Aston Villa,2–0,Newcastle Utd
-12,Fri Dec 11 2020,Leeds United,1–2,West Ham
-12,Sat Dec 12 2020,Wolves,0–1,Aston Villa
-12,Sat Dec 12 2020,Newcastle Utd,2–1,West Brom
-12,Sat Dec 12 2020,Manchester Utd,0–0,Manchester City
-12,Sat Dec 12 2020,Everton,1–0,Chelsea
-12,Sun Dec 13 2020,Southampton,3–0,Sheffield Utd
-12,Sun Dec 13 2020,Crystal Palace,1–1,Tottenham
-12,Sun Dec 13 2020,Fulham,1–1,Liverpool
-12,Sun Dec 13 2020,Leicester City,3–0,Brighton
-12,Sun Dec 13 2020,Arsenal,0–1,Burnley
-13,Tue Dec 15 2020,Wolves,2–1,Chelsea
-13,Tue Dec 15 2020,Manchester City,1–1,West Brom
-13,Wed Dec 16 2020,Arsenal,1–1,Southampton
-13,Wed Dec 16 2020,Leicester City,0–2,Everton
-13,Wed Dec 16 2020,Leeds United,5–2,Newcastle Utd
-13,Wed Dec 16 2020,Liverpool,2–1,Tottenham
-13,Wed Dec 16 2020,West Ham,1–1,Crystal Palace
-13,Wed Dec 16 2020,Fulham,0–0,Brighton
-13,Thu Dec 17 2020,Aston Villa,0–0,Burnley
-13,Thu Dec 17 2020,Sheffield Utd,2–3,Manchester Utd
-14,Sat Dec 19 2020,Crystal Palace,0–7,Liverpool
-14,Sat Dec 19 2020,Southampton,0–1,Manchester City
-14,Sat Dec 19 2020,Everton,2–1,Arsenal
-14,Sat Dec 19 2020,Newcastle Utd,1–1,Fulham
-14,Sun Dec 20 2020,Brighton,1–1,Sheffield Utd
-14,Sun Dec 20 2020,Tottenham,0–2,Leicester City
-14,Sun Dec 20 2020,Manchester Utd,6–2,Leeds United
-14,Sun Dec 20 2020,West Brom,0–3,Aston Villa
-14,Mon Dec 21 2020,Burnley,2–1,Wolves
-14,Mon Dec 21 2020,Chelsea,3–0,West Ham
-15,Sat Dec 26 2020,Leicester City,2–2,Manchester Utd
-15,Sat Dec 26 2020,Aston Villa,3–0,Crystal Palace
-15,Sat Dec 26 2020,Fulham,0–0,Southampton
-15,Sat Dec 26 2020,Arsenal,3–1,Chelsea
-15,Sat Dec 26 2020,Sheffield Utd,0–1,Everton
-15,Sat Dec 26 2020,Manchester City,2–0,Newcastle Utd
-15,Sun Dec 27 2020,Leeds United,1–0,Burnley
-15,Sun Dec 27 2020,West Ham,2–2,Brighton
-15,Sun Dec 27 2020,Liverpool,1–1,West Brom
-15,Sun Dec 27 2020,Wolves,1–1,Tottenham
-16,Mon Dec 28 2020,Crystal Palace,1–1,Leicester City
-16,Mon Dec 28 2020,Chelsea,1–1,Aston Villa
-16,Tue Dec 29 2020,West Brom,0–5,Leeds United
-16,Tue Dec 29 2020,Southampton,0–0,West Ham
-16,Tue Dec 29 2020,Burnley,1–0,Sheffield Utd
-16,Tue Dec 29 2020,Brighton,0–1,Arsenal
-16,Tue Dec 29 2020,Manchester Utd,1–0,Wolves
-16,Wed Dec 30 2020,Newcastle Utd,0–0,Liverpool
-16,Wed Jan 13 2021(P),Tottenham,1–1,Fulham
-16,Wed Feb 17 2021(P),Everton,1–3,Manchester City
-17,Fri Jan 01 2021,Everton,0–1,West Ham
-17,Fri Jan 01 2021,Manchester Utd,2–1,Aston Villa
-17,Sat Jan 02 2021,Tottenham,3–0,Leeds United
-17,Sat Jan 02 2021,Crystal Palace,2–0,Sheffield Utd
-17,Sat Jan 02 2021,Brighton,3–3,Wolves
-17,Sat Jan 02 2021,West Brom,0–4,Arsenal
-17,Sun Jan 03 2021,Newcastle Utd,1–2,Leicester City
-17,Sun Jan 03 2021,Chelsea,1–3,Manchester City
-17,Mon Jan 04 2021,Southampton,1–0,Liverpool
-17,Wed Feb 17 2021(P),Burnley,1–1,Fulham
-18,Tue Jan 12 2021,Sheffield Utd,1–0,Newcastle Utd
-18,Tue Jan 12 2021,Wolves,1–2,Everton
-18,Wed Jan 13 2021,Manchester City,1–0,Brighton
-18,Thu Jan 14 2021,Arsenal,0–0,Crystal Palace
-18,Tue Jan 19 2021,West Ham,2–1,West Brom
-18,Tue Jan 19 2021,Leicester City,2–0,Chelsea
-18,Wed Jan 20 2021,Fulham,1–2,Manchester Utd
-18,Thu Jan 21 2021,Liverpool,0–1,Burnley
-18,Tue Feb 23 2021(P),Leeds United,3–0,Southampton
-18,Sun Mar 21 2021(P),Aston Villa,0–2,Tottenham
-19,Sat Jan 16 2021,Wolves,2–3,West Brom
-19,Sat Jan 16 2021,West Ham,1–0,Burnley
-19,Sat Jan 16 2021,Leeds United,0–1,Brighton
-19,Sat Jan 16 2021,Fulham,0–1,Chelsea
-19,Sat Jan 16 2021,Leicester City,2–0,Southampton
-19,Sun Jan 17 2021,Sheffield Utd,1–3,Tottenham
-19,Sun Jan 17 2021,Liverpool,0–0,Manchester Utd
-19,Sun Jan 17 2021,Manchester City,4–0,Crystal Palace
-19,Mon Jan 18 2021,Arsenal,3–0,Newcastle Utd
-19,Thu May 13 2021(P),Aston Villa,0–0,Everton
-20,Tue Jan 26 2021,Newcastle Utd,1–2,Leeds United
-20,Tue Jan 26 2021,Crystal Palace,2–3,West Ham
-20,Tue Jan 26 2021,West Brom,0–5,Manchester City
-20,Tue Jan 26 2021,Southampton,1–3,Arsenal
-20,Wed Jan 27 2021,Chelsea,0–0,Wolves
-20,Wed Jan 27 2021,Burnley,3–2,Aston Villa
-20,Wed Jan 27 2021,Brighton,0–0,Fulham
-20,Wed Jan 27 2021,Everton,1–1,Leicester City
-20,Wed Jan 27 2021,Manchester Utd,1–2,Sheffield Utd
-20,Thu Jan 28 2021,Tottenham,1–3,Liverpool
-21,Sat Jan 30 2021,Everton,0–2,Newcastle Utd
-21,Sat Jan 30 2021,Crystal Palace,1–0,Wolves
-21,Sat Jan 30 2021,Manchester City,1–0,Sheffield Utd
-21,Sat Jan 30 2021,West Brom,2–2,Fulham
-21,Sat Jan 30 2021,Arsenal,0–0,Manchester Utd
-21,Sat Jan 30 2021,Southampton,0–1,Aston Villa
-21,Sun Jan 31 2021,Chelsea,2–0,Burnley
-21,Sun Jan 31 2021,Leicester City,1–3,Leeds United
-21,Sun Jan 31 2021,West Ham,1–3,Liverpool
-21,Sun Jan 31 2021,Brighton,1–0,Tottenham
-22,Tue Feb 02 2021,Sheffield Utd,2–1,West Brom
-22,Tue Feb 02 2021,Wolves,2–1,Arsenal
-22,Tue Feb 02 2021,Manchester Utd,9–0,Southampton
-22,Tue Feb 02 2021,Newcastle Utd,1–2,Crystal Palace
-22,Wed Feb 03 2021,Burnley,0–2,Manchester City
-22,Wed Feb 03 2021,Fulham,0–2,Leicester City
-22,Wed Feb 03 2021,Leeds United,1–2,Everton
-22,Wed Feb 03 2021,Liverpool,0–1,Brighton
-22,Wed Feb 03 2021,Aston Villa,1–3,West Ham
-22,Thu Feb 04 2021,Tottenham,0–1,Chelsea
-23,Sat Feb 06 2021,Aston Villa,1–0,Arsenal
-23,Sat Feb 06 2021,Burnley,1–1,Brighton
-23,Sat Feb 06 2021,Newcastle Utd,3–2,Southampton
-23,Sat Feb 06 2021,Fulham,0–0,West Ham
-23,Sat Feb 06 2021,Manchester Utd,3–3,Everton
-23,Sun Feb 07 2021,Tottenham,2–0,West Brom
-23,Sun Feb 07 2021,Wolves,0–0,Leicester City
-23,Sun Feb 07 2021,Liverpool,1–4,Manchester City
-23,Sun Feb 07 2021,Sheffield Utd,1–2,Chelsea
-23,Mon Feb 08 2021,Leeds United,2–0,Crystal Palace
-24,Sat Feb 13 2021,Leicester City,3–1,Liverpool
-24,Sat Feb 13 2021,Crystal Palace,0–3,Burnley
-24,Sat Feb 13 2021,Manchester City,3–0,Tottenham
-24,Sat Feb 13 2021,Brighton,0–0,Aston Villa
-24,Sun Feb 14 2021,Southampton,1–2,Wolves
-24,Sun Feb 14 2021,West Brom,1–1,Manchester Utd
-24,Sun Feb 14 2021,Arsenal,4–2,Leeds United
-24,Sun Feb 14 2021,Everton,0–2,Fulham
-24,Mon Feb 15 2021,West Ham,3–0,Sheffield Utd
-24,Mon Feb 15 2021,Chelsea,2–0,Newcastle Utd
-25,Fri Feb 19 2021,Wolves,1–0,Leeds United
-25,Sat Feb 20 2021,Southampton,1–1,Chelsea
-25,Sat Feb 20 2021,Burnley,0–0,West Brom
-25,Sat Feb 20 2021,Liverpool,0–2,Everton
-25,Sat Feb 20 2021,Fulham,1–0,Sheffield Utd
-25,Sun Feb 21 2021,West Ham,2–1,Tottenham
-25,Sun Feb 21 2021,Aston Villa,1–2,Leicester City
-25,Sun Feb 21 2021,Arsenal,0–1,Manchester City
-25,Sun Feb 21 2021,Manchester Utd,3–1,Newcastle Utd
-25,Mon Feb 22 2021,Brighton,1–2,Crystal Palace
-26,Sat Feb 27 2021,Manchester City,2–1,West Ham
-26,Sat Feb 27 2021,West Brom,1–0,Brighton
-26,Sat Feb 27 2021,Leeds United,0–1,Aston Villa
-26,Sat Feb 27 2021,Newcastle Utd,1–1,Wolves
-26,Sun Feb 28 2021,Crystal Palace,0–0,Fulham
-26,Sun Feb 28 2021,Leicester City,1–3,Arsenal
-26,Sun Feb 28 2021,Tottenham,4–0,Burnley
-26,Sun Feb 28 2021,Chelsea,0–0,Manchester Utd
-26,Sun Feb 28 2021,Sheffield Utd,0–2,Liverpool
-26,Mon Mar 01 2021,Everton,1–0,Southampton
-27,Sat Mar 06 2021,Burnley,1–1,Arsenal
-27,Sat Mar 06 2021,Sheffield Utd,0–2,Southampton
-27,Sat Mar 06 2021,Aston Villa,0–0,Wolves
-27,Sat Mar 06 2021,Brighton,1–2,Leicester City
-27,Sun Mar 07 2021,West Brom,0–0,Newcastle Utd
-27,Sun Mar 07 2021,Liverpool,0–1,Fulham
-27,Sun Mar 07 2021,Manchester City,0–2,Manchester Utd
-27,Sun Mar 07 2021,Tottenham,4–1,Crystal Palace
-27,Mon Mar 08 2021,Chelsea,2–0,Everton
-27,Mon Mar 08 2021,West Ham,2–0,Leeds United
-28,Fri Mar 12 2021,Newcastle Utd,1–1,Aston Villa
-28,Sat Mar 13 2021,Leeds United,0–0,Chelsea
-28,Sat Mar 13 2021,Crystal Palace,1–0,West Brom
-28,Sat Mar 13 2021,Everton,1–2,Burnley
-28,Sat Mar 13 2021,Fulham,0–3,Manchester City
-28,Sun Mar 14 2021,Southampton,1–2,Brighton
-28,Sun Mar 14 2021,Leicester City,5–0,Sheffield Utd
-28,Sun Mar 14 2021,Arsenal,2–1,Tottenham
-28,Sun Mar 14 2021,Manchester Utd,1–0,West Ham
-28,Mon Mar 15 2021,Wolves,0–1,Liverpool
-29,Tue Mar 02 2021,Manchester City,4–1,Wolves
-29,Wed Mar 03 2021,Sheffield Utd,1–0,Aston Villa
-29,Wed Mar 03 2021,Burnley,1–1,Leicester City
-29,Wed Mar 03 2021,Crystal Palace,0–0,Manchester Utd
-29,Thu Mar 04 2021,West Brom,0–1,Everton
-29,Thu Mar 04 2021,Liverpool,0–1,Chelsea
-29,Fri Mar 19 2021,Fulham,1–2,Leeds United
-29,Sat Mar 20 2021,Brighton,3–0,Newcastle Utd
-29,Sun Mar 21 2021,West Ham,3–3,Arsenal
-29,Wed Apr 21 2021(P),Tottenham,2–1,Southampton
-30,Sat Apr 03 2021,Chelsea,2–5,West Brom
-30,Sat Apr 03 2021,Leeds United,2–1,Sheffield Utd
-30,Sat Apr 03 2021,Leicester City,0–2,Manchester City
-30,Sat Apr 03 2021,Arsenal,0–3,Liverpool
-30,Sun Apr 04 2021,Southampton,3–2,Burnley
-30,Sun Apr 04 2021,Newcastle Utd,2–2,Tottenham
-30,Sun Apr 04 2021,Aston Villa,3–1,Fulham
-30,Sun Apr 04 2021,Manchester Utd,2–1,Brighton
-30,Mon Apr 05 2021,Everton,1–1,Crystal Palace
-30,Mon Apr 05 2021,Wolves,2–3,West Ham
-31,Fri Apr 09 2021,Fulham,0–1,Wolves
-31,Sat Apr 10 2021,Manchester City,1–2,Leeds United
-31,Sat Apr 10 2021,Liverpool,2–1,Aston Villa
-31,Sat Apr 10 2021,Crystal Palace,1–4,Chelsea
-31,Sun Apr 11 2021,Burnley,1–2,Newcastle Utd
-31,Sun Apr 11 2021,West Ham,3–2,Leicester City
-31,Sun Apr 11 2021,Tottenham,1–3,Manchester Utd
-31,Sun Apr 11 2021,Sheffield Utd,0–3,Arsenal
-31,Mon Apr 12 2021,West Brom,3–0,Southampton
-31,Mon Apr 12 2021,Brighton,0–0,Everton
-32,Fri Apr 16 2021,Everton,2–2,Tottenham
-32,Sat Apr 17 2021,Newcastle Utd,3–2,West Ham
-32,Sat Apr 17 2021,Wolves,1–0,Sheffield Utd
-32,Sun Apr 18 2021,Arsenal,1–1,Fulham
-32,Sun Apr 18 2021,Manchester Utd,3–1,Burnley
-32,Mon Apr 19 2021,Leeds United,1–1,Liverpool
-32,Tue Apr 20 2021,Chelsea,0–0,Brighton
-32,Wed Apr 21 2021,Aston Villa,1–2,Manchester City
-32,Thu Apr 22 2021,Leicester City,3–0,West Brom
-32,Tue May 11 2021(P),Southampton,3–1,Crystal Palace
-33,Thu Mar 04 2021,Fulham,0–1,Tottenham
-33,Wed Mar 10 2021,Manchester City,5–2,Southampton
-33,Fri Apr 23 2021,Arsenal,0–1,Everton
-33,Sat Apr 24 2021,Liverpool,1–1,Newcastle Utd
-33,Sat Apr 24 2021,West Ham,0–1,Chelsea
-33,Sat Apr 24 2021,Sheffield Utd,1–0,Brighton
-33,Sun Apr 25 2021,Wolves,0–4,Burnley
-33,Sun Apr 25 2021,Leeds United,0–0,Manchester Utd
-33,Sun Apr 25 2021,Aston Villa,2–2,West Brom
-33,Mon Apr 26 2021,Leicester City,2–1,Crystal Palace
-34,Fri Apr 30 2021,Southampton,1–1,Leicester City
-34,Sat May 01 2021,Crystal Palace,0–2,Manchester City
-34,Sat May 01 2021,Brighton,2–0,Leeds United
-34,Sat May 01 2021,Chelsea,2–0,Fulham
-34,Sat May 01 2021,Everton,1–2,Aston Villa
-34,Sun May 02 2021,Newcastle Utd,0–2,Arsenal
-34,Sun May 02 2021,Tottenham,4–0,Sheffield Utd
-34,Mon May 03 2021,West Brom,1–1,Wolves
-34,Mon May 03 2021,Burnley,1–2,West Ham
-34,Thu May 13 2021(P),Manchester Utd,2–4,Liverpool
-35,Fri May 07 2021,Leicester City,2–4,Newcastle Utd
-35,Sat May 08 2021,Leeds United,3–1,Tottenham
-35,Sat May 08 2021,Sheffield Utd,0–2,Crystal Palace
-35,Sat May 08 2021,Manchester City,1–2,Chelsea
-35,Sat May 08 2021,Liverpool,2–0,Southampton
-35,Sun May 09 2021,Wolves,2–1,Brighton
-35,Sun May 09 2021,Aston Villa,1–3,Manchester Utd
-35,Sun May 09 2021,West Ham,0–1,Everton
-35,Sun May 09 2021,Arsenal,3–1,West Brom
-35,Mon May 10 2021,Fulham,0–2,Burnley
-36,Tue May 11 2021,Manchester Utd,1–2,Leicester City
-36,Wed May 12 2021,Chelsea,0–1,Arsenal
-36,Fri May 14 2021,Newcastle Utd,3–4,Manchester City
-36,Sat May 15 2021,Burnley,0–4,Leeds United
-36,Sat May 15 2021,Southampton,3–1,Fulham
-36,Sat May 15 2021,Brighton,1–1,West Ham
-36,Sun May 16 2021,Crystal Palace,3–2,Aston Villa
-36,Sun May 16 2021,Tottenham,2–0,Wolves
-36,Sun May 16 2021,West Brom,1–2,Liverpool
-36,Sun May 16 2021,Everton,0–1,Sheffield Utd
-37,Tue May 18 2021,Manchester Utd,1–1,Fulham
-37,Tue May 18 2021,Southampton,0–2,Leeds United
-37,Tue May 18 2021,Brighton,3–2,Manchester City
-37,Tue May 18 2021,Chelsea,2–1,Leicester City
-37,Wed May 19 2021,Newcastle Utd,1–0,Sheffield Utd
-37,Wed May 19 2021,Tottenham,1–2,Aston Villa
-37,Wed May 19 2021,Everton,1–0,Wolves
-37,Wed May 19 2021,Crystal Palace,1–3,Arsenal
-37,Wed May 19 2021,Burnley,0–3,Liverpool
-37,Wed May 19 2021,West Brom,1–3,West Ham
-38,Sun May 23 2021,Aston Villa,2–1,Chelsea
-38,Sun May 23 2021,Leicester City,2–4,Tottenham
-38,Sun May 23 2021,Manchester City,5–0,Everton
-38,Sun May 23 2021,Sheffield Utd,1–0,Burnley
-38,Sun May 23 2021,Wolves,1–2,Manchester Utd
-38,Sun May 23 2021,West Ham,3–0,Southampton
-38,Sun May 23 2021,Leeds United,3–1,West Brom
-38,Sun May 23 2021,Arsenal,2–0,Brighton
-38,Sun May 23 2021,Liverpool,2–0,Crystal Palace
-38,Sun May 23 2021,Fulham,0–2,Newcastle Utd
+10/08/2018,Man United,Leicester,2,1,H,A Marriner
+11/08/2018,Bournemouth,Cardiff,2,0,H,K Friend
+11/08/2018,Fulham,Crystal Palace,0,2,A,M Dean
+11/08/2018,Huddersfield,Chelsea,0,3,A,C Kavanagh
+11/08/2018,Newcastle,Tottenham,1,2,A,M Atkinson
+11/08/2018,Watford,Brighton,2,0,H,J Moss
+11/08/2018,Wolves,Everton,2,2,D,C Pawson
+12/08/2018,Arsenal,Man City,0,2,A,M Oliver
+12/08/2018,Liverpool,West Ham,4,0,H,A Taylor
+12/08/2018,Southampton,Burnley,0,0,D,G Scott
+18/08/2018,Cardiff,Newcastle,0,0,D,C Pawson
+18/08/2018,Chelsea,Arsenal,3,2,H,M Atkinson
+18/08/2018,Everton,Southampton,2,1,H,L Mason
+18/08/2018,Leicester,Wolves,2,0,H,M Dean
+18/08/2018,Tottenham,Fulham,3,1,H,A Taylor
+18/08/2018,West Ham,Bournemouth,1,2,A,S Attwell
+19/08/2018,Brighton,Man United,3,2,H,K Friend
+19/08/2018,Burnley,Watford,1,3,A,P Tierney
+19/08/2018,Man City,Huddersfield,6,1,H,A Marriner
+20/08/2018,Crystal Palace,Liverpool,0,2,A,M Oliver
+25/08/2018,Arsenal,West Ham,3,1,H,G Scott
+25/08/2018,Bournemouth,Everton,2,2,D,L Probert
+25/08/2018,Huddersfield,Cardiff,0,0,D,M Oliver
+25/08/2018,Liverpool,Brighton,1,0,H,C Kavanagh
+25/08/2018,Southampton,Leicester,1,2,A,J Moss
+25/08/2018,Wolves,Man City,1,1,D,M Atkinson
+26/08/2018,Fulham,Burnley,4,2,H,D Coote
+26/08/2018,Newcastle,Chelsea,1,2,A,P Tierney
+26/08/2018,Watford,Crystal Palace,2,1,H,A Taylor
+27/08/2018,Man United,Tottenham,0,3,A,C Pawson
+01/09/2018,Brighton,Fulham,2,2,D,L Probert
+01/09/2018,Chelsea,Bournemouth,2,0,H,L Mason
+01/09/2018,Crystal Palace,Southampton,0,2,A,M Atkinson
+01/09/2018,Everton,Huddersfield,1,1,D,S Attwell
+01/09/2018,Leicester,Liverpool,1,2,A,P Tierney
+01/09/2018,Man City,Newcastle,2,1,H,K Friend
+01/09/2018,West Ham,Wolves,0,1,A,C Kavanagh
+02/09/2018,Burnley,Man United,0,2,A,J Moss
+02/09/2018,Cardiff,Arsenal,2,3,A,A Taylor
+02/09/2018,Watford,Tottenham,2,1,H,A Marriner
+15/09/2018,Bournemouth,Leicester,4,2,H,C Pawson
+15/09/2018,Chelsea,Cardiff,4,1,H,J Moss
+15/09/2018,Huddersfield,Crystal Palace,0,1,A,L Mason
+15/09/2018,Man City,Fulham,3,0,H,S Attwell
+15/09/2018,Newcastle,Arsenal,1,2,A,L Probert
+15/09/2018,Tottenham,Liverpool,1,2,A,M Oliver
+15/09/2018,Watford,Man United,1,2,A,M Dean
+16/09/2018,Everton,West Ham,1,3,A,M Atkinson
+16/09/2018,Wolves,Burnley,1,0,H,A Marriner
+17/09/2018,Southampton,Brighton,2,2,D,A Taylor
+22/09/2018,Brighton,Tottenham,1,2,A,C Kavanagh
+22/09/2018,Burnley,Bournemouth,4,0,H,A Taylor
+22/09/2018,Cardiff,Man City,0,5,A,M Oliver
+22/09/2018,Crystal Palace,Newcastle,0,0,D,A Marriner
+22/09/2018,Fulham,Watford,1,1,D,M Atkinson
+22/09/2018,Leicester,Huddersfield,3,1,H,D Coote
+22/09/2018,Liverpool,Southampton,3,0,H,P Tierney
+22/09/2018,Man United,Wolves,1,1,D,K Friend
+23/09/2018,Arsenal,Everton,2,0,H,J Moss
+23/09/2018,West Ham,Chelsea,0,0,D,M Dean
+29/09/2018,Arsenal,Watford,2,0,H,A Taylor
+29/09/2018,Chelsea,Liverpool,1,1,D,A Marriner
+29/09/2018,Everton,Fulham,3,0,H,R East
+29/09/2018,Huddersfield,Tottenham,0,2,A,C Pawson
+29/09/2018,Man City,Brighton,2,0,H,L Mason
+29/09/2018,Newcastle,Leicester,0,2,A,S Hooper
+29/09/2018,West Ham,Man United,3,1,H,M Oliver
+29/09/2018,Wolves,Southampton,2,0,H,S Attwell
+30/09/2018,Cardiff,Burnley,1,2,A,M Atkinson
+01/10/2018,Bournemouth,Crystal Palace,2,1,H,M Dean
+05/10/2018,Brighton,West Ham,1,0,H,K Friend
+06/10/2018,Burnley,Huddersfield,1,1,D,C Kavanagh
+06/10/2018,Crystal Palace,Wolves,0,1,A,M Oliver
+06/10/2018,Leicester,Everton,1,2,A,A Marriner
+06/10/2018,Man United,Newcastle,3,2,H,A Taylor
+06/10/2018,Tottenham,Cardiff,1,0,H,M Dean
+06/10/2018,Watford,Bournemouth,0,4,A,J Moss
+07/10/2018,Fulham,Arsenal,1,5,A,P Tierney
+07/10/2018,Liverpool,Man City,0,0,D,M Atkinson
+07/10/2018,Southampton,Chelsea,0,3,A,C Pawson
+20/10/2018,Bournemouth,Southampton,0,0,D,L Probert
+20/10/2018,Cardiff,Fulham,4,2,H,K Friend
+20/10/2018,Chelsea,Man United,2,2,D,M Dean
+20/10/2018,Huddersfield,Liverpool,0,1,A,M Oliver
+20/10/2018,Man City,Burnley,5,0,H,J Moss
+20/10/2018,Newcastle,Brighton,0,1,A,A Marriner
+20/10/2018,West Ham,Tottenham,0,1,A,M Atkinson
+20/10/2018,Wolves,Watford,0,2,A,L Mason
+21/10/2018,Everton,Crystal Palace,2,0,H,A Taylor
+22/10/2018,Arsenal,Leicester,3,1,H,C Kavanagh
+27/10/2018,Brighton,Wolves,1,0,H,A Taylor
+27/10/2018,Fulham,Bournemouth,0,3,A,A Marriner
+27/10/2018,Leicester,West Ham,1,1,D,M Oliver
+27/10/2018,Liverpool,Cardiff,4,1,H,S Attwell
+27/10/2018,Southampton,Newcastle,0,0,D,C Kavanagh
+27/10/2018,Watford,Huddersfield,3,0,H,M Dean
+28/10/2018,Burnley,Chelsea,0,4,A,C Pawson
+28/10/2018,Crystal Palace,Arsenal,2,2,D,M Atkinson
+28/10/2018,Man United,Everton,2,1,H,J Moss
+29/10/2018,Tottenham,Man City,0,1,A,K Friend
+03/11/2018,Arsenal,Liverpool,1,1,D,A Marriner
+03/11/2018,Bournemouth,Man United,1,2,A,P Tierney
+03/11/2018,Cardiff,Leicester,0,1,A,L Probert
+03/11/2018,Everton,Brighton,3,1,H,D Coote
+03/11/2018,Newcastle,Watford,1,0,H,C Pawson
+03/11/2018,West Ham,Burnley,4,2,H,R East
+03/11/2018,Wolves,Tottenham,2,3,A,M Dean
+04/11/2018,Chelsea,Crystal Palace,3,1,H,M Oliver
+04/11/2018,Man City,Southampton,6,1,H,L Mason
+05/11/2018,Huddersfield,Fulham,1,0,H,A Taylor
+10/11/2018,Cardiff,Brighton,2,1,H,M Atkinson
+10/11/2018,Crystal Palace,Tottenham,0,1,A,J Moss
+10/11/2018,Huddersfield,West Ham,1,1,D,C Kavanagh
+10/11/2018,Leicester,Burnley,0,0,D,M Dean
+10/11/2018,Newcastle,Bournemouth,2,1,H,L Probert
+10/11/2018,Southampton,Watford,1,1,D,S Hooper
+11/11/2018,Arsenal,Wolves,1,1,D,S Attwell
+11/11/2018,Chelsea,Everton,0,0,D,K Friend
+11/11/2018,Liverpool,Fulham,2,0,H,P Tierney
+11/11/2018,Man City,Man United,3,1,H,A Taylor
+24/11/2018,Brighton,Leicester,1,1,D,C Kavanagh
+24/11/2018,Everton,Cardiff,1,0,H,P Tierney
+24/11/2018,Fulham,Southampton,3,2,H,M Oliver
+24/11/2018,Man United,Crystal Palace,0,0,D,L Mason
+24/11/2018,Tottenham,Chelsea,3,1,H,M Atkinson
+24/11/2018,Watford,Liverpool,0,3,A,J Moss
+24/11/2018,West Ham,Man City,0,4,A,A Marriner
+25/11/2018,Bournemouth,Arsenal,1,2,A,C Pawson
+25/11/2018,Wolves,Huddersfield,0,2,A,K Friend
+26/11/2018,Burnley,Newcastle,1,2,A,A Taylor
+30/11/2018,Cardiff,Wolves,2,1,H,A Marriner
+01/12/2018,Crystal Palace,Burnley,2,0,H,L Probert
+01/12/2018,Huddersfield,Brighton,1,2,A,M Oliver
+01/12/2018,Leicester,Watford,2,0,H,G Scott
+01/12/2018,Man City,Bournemouth,3,1,H,S Attwell
+01/12/2018,Newcastle,West Ham,0,3,A,P Tierney
+01/12/2018,Southampton,Man United,2,2,D,K Friend
+02/12/2018,Arsenal,Tottenham,4,2,H,M Dean
+02/12/2018,Chelsea,Fulham,2,0,H,C Pawson
+02/12/2018,Liverpool,Everton,1,0,H,C Kavanagh
+04/12/2018,Bournemouth,Huddersfield,2,1,H,R East
+04/12/2018,Brighton,Crystal Palace,3,1,H,K Friend
+04/12/2018,Watford,Man City,1,2,A,P Tierney
+04/12/2018,West Ham,Cardiff,3,1,H,G Scott
+05/12/2018,Burnley,Liverpool,1,3,A,S Attwell
+05/12/2018,Everton,Newcastle,1,1,D,L Mason
+05/12/2018,Fulham,Leicester,1,1,D,D Coote
+05/12/2018,Man United,Arsenal,2,2,D,A Marriner
+05/12/2018,Tottenham,Southampton,3,1,H,A Taylor
+05/12/2018,Wolves,Chelsea,2,1,H,J Moss
+08/12/2018,Arsenal,Huddersfield,1,0,H,P Tierney
+08/12/2018,Bournemouth,Liverpool,0,4,A,L Mason
+08/12/2018,Burnley,Brighton,1,0,H,M Atkinson
+08/12/2018,Cardiff,Southampton,1,0,H,J Moss
+08/12/2018,Chelsea,Man City,2,0,H,M Oliver
+08/12/2018,Leicester,Tottenham,0,2,A,C Pawson
+08/12/2018,Man United,Fulham,4,1,H,L Probert
+08/12/2018,West Ham,Crystal Palace,3,2,H,A Taylor
+09/12/2018,Newcastle,Wolves,1,2,A,M Dean
+10/12/2018,Everton,Watford,2,2,D,K Friend
+15/12/2018,Crystal Palace,Leicester,1,0,H,M Oliver
+15/12/2018,Fulham,West Ham,0,2,A,M Dean
+15/12/2018,Huddersfield,Newcastle,0,1,A,A Taylor
+15/12/2018,Man City,Everton,3,1,H,C Pawson
+15/12/2018,Tottenham,Burnley,1,0,H,G Scott
+15/12/2018,Watford,Cardiff,3,2,H,A Madley
+15/12/2018,Wolves,Bournemouth,2,0,H,S Hooper
+16/12/2018,Brighton,Chelsea,1,2,A,S Attwell
+16/12/2018,Liverpool,Man United,3,1,H,M Atkinson
+16/12/2018,Southampton,Arsenal,3,2,H,C Kavanagh
+21/12/2018,Wolves,Liverpool,0,2,A,C Pawson
+22/12/2018,Arsenal,Burnley,3,1,H,K Friend
+22/12/2018,Bournemouth,Brighton,2,0,H,M Dean
+22/12/2018,Cardiff,Man United,1,5,A,M Oliver
+22/12/2018,Chelsea,Leicester,0,1,A,L Probert
+22/12/2018,Huddersfield,Southampton,1,3,A,S Attwell
+22/12/2018,Man City,Crystal Palace,2,3,A,A Marriner
+22/12/2018,Newcastle,Fulham,0,0,D,M Atkinson
+22/12/2018,West Ham,Watford,0,2,A,L Mason
+23/12/2018,Everton,Tottenham,2,6,A,P Tierney
+26/12/2018,Brighton,Arsenal,1,1,D,A Taylor
+26/12/2018,Burnley,Everton,1,5,A,M Oliver
+26/12/2018,Crystal Palace,Cardiff,0,0,D,L Probert
+26/12/2018,Fulham,Wolves,1,1,D,A Marriner
+26/12/2018,Leicester,Man City,2,1,H,M Dean
+26/12/2018,Liverpool,Newcastle,4,0,H,G Scott
+26/12/2018,Man United,Huddersfield,3,1,H,J Moss
+26/12/2018,Tottenham,Bournemouth,5,0,H,C Kavanagh
+26/12/2018,Watford,Chelsea,1,2,A,M Atkinson
+27/12/2018,Southampton,West Ham,1,2,A,C Pawson
+29/12/2018,Brighton,Everton,1,0,H,A Madley
+29/12/2018,Fulham,Huddersfield,1,0,H,K Friend
+29/12/2018,Leicester,Cardiff,0,1,A,S Hooper
+29/12/2018,Liverpool,Arsenal,5,1,H,M Oliver
+29/12/2018,Tottenham,Wolves,1,3,A,S Attwell
+29/12/2018,Watford,Newcastle,1,1,D,R East
+30/12/2018,Burnley,West Ham,2,0,H,D Coote
+30/12/2018,Crystal Palace,Chelsea,0,1,A,C Pawson
+30/12/2018,Man United,Bournemouth,4,1,H,L Mason
+30/12/2018,Southampton,Man City,1,3,A,P Tierney
+01/01/2019,Arsenal,Fulham,4,1,H,G Scott
+01/01/2019,Cardiff,Tottenham,0,3,A,K Friend
+01/01/2019,Everton,Leicester,0,1,A,M Atkinson
+02/01/2019,Bournemouth,Watford,3,3,D,D Coote
+02/01/2019,Chelsea,Southampton,0,0,D,J Moss
+02/01/2019,Huddersfield,Burnley,1,2,A,M Dean
+02/01/2019,Newcastle,Man United,0,2,A,A Marriner
+02/01/2019,West Ham,Brighton,2,2,D,C Kavanagh
+02/01/2019,Wolves,Crystal Palace,0,2,A,R East
+03/01/2019,Man City,Liverpool,2,1,H,A Taylor
+12/01/2019,Brighton,Liverpool,0,1,A,K Friend
+12/01/2019,Burnley,Fulham,2,1,H,M Atkinson
+12/01/2019,Cardiff,Huddersfield,0,0,D,L Mason
+12/01/2019,Chelsea,Newcastle,2,1,H,C Kavanagh
+12/01/2019,Crystal Palace,Watford,1,2,A,P Tierney
+12/01/2019,Leicester,Southampton,1,2,A,M Oliver
+12/01/2019,West Ham,Arsenal,1,0,H,J Moss
+13/01/2019,Everton,Bournemouth,2,0,H,A Taylor
+13/01/2019,Tottenham,Man United,0,1,A,M Dean
+14/01/2019,Man City,Wolves,3,0,H,C Pawson
+19/01/2019,Arsenal,Chelsea,2,0,H,A Taylor
+19/01/2019,Bournemouth,West Ham,2,0,H,S Hooper
+19/01/2019,Liverpool,Crystal Palace,4,3,H,J Moss
+19/01/2019,Man United,Brighton,2,1,H,P Tierney
+19/01/2019,Newcastle,Cardiff,3,0,H,S Attwell
+19/01/2019,Southampton,Everton,2,1,H,G Scott
+19/01/2019,Watford,Burnley,0,0,D,M Oliver
+19/01/2019,Wolves,Leicester,4,3,H,C Kavanagh
+20/01/2019,Fulham,Tottenham,1,2,A,C Pawson
+20/01/2019,Huddersfield,Man City,0,3,A,A Marriner
+29/01/2019,Arsenal,Cardiff,2,1,H,M Dean
+29/01/2019,Fulham,Brighton,4,2,H,L Probert
+29/01/2019,Huddersfield,Everton,0,1,A,S Attwell
+29/01/2019,Man United,Burnley,2,2,D,J Moss
+29/01/2019,Newcastle,Man City,2,1,H,P Tierney
+29/01/2019,Wolves,West Ham,3,0,H,D Coote
+30/01/2019,Bournemouth,Chelsea,4,0,H,R East
+30/01/2019,Liverpool,Leicester,1,1,D,M Atkinson
+30/01/2019,Southampton,Crystal Palace,1,1,D,A Marriner
+30/01/2019,Tottenham,Watford,2,1,H,G Scott
+02/02/2019,Brighton,Watford,0,0,D,S Hooper
+02/02/2019,Burnley,Southampton,1,1,D,A Taylor
+02/02/2019,Cardiff,Bournemouth,2,0,H,J Moss
+02/02/2019,Chelsea,Huddersfield,5,0,H,P Tierney
+02/02/2019,Crystal Palace,Fulham,2,0,H,M Oliver
+02/02/2019,Everton,Wolves,1,3,A,L Mason
+02/02/2019,Tottenham,Newcastle,1,0,H,A Marriner
+03/02/2019,Leicester,Man United,0,1,A,M Dean
+03/02/2019,Man City,Arsenal,3,1,H,M Atkinson
+04/02/2019,West Ham,Liverpool,1,1,D,K Friend
+06/02/2019,Everton,Man City,0,2,A,C Pawson
+09/02/2019,Brighton,Burnley,1,3,A,S Attwell
+09/02/2019,Crystal Palace,West Ham,1,1,D,C Pawson
+09/02/2019,Fulham,Man United,0,3,A,P Tierney
+09/02/2019,Huddersfield,Arsenal,1,2,A,J Moss
+09/02/2019,Liverpool,Bournemouth,3,0,H,A Taylor
+09/02/2019,Southampton,Cardiff,1,2,A,M Atkinson
+09/02/2019,Watford,Everton,1,0,H,L Probert
+10/02/2019,Man City,Chelsea,6,0,H,M Dean
+10/02/2019,Tottenham,Leicester,3,1,H,M Oliver
+11/02/2019,Wolves,Newcastle,1,1,D,G Scott
+22/02/2019,Cardiff,Watford,1,5,A,S Hooper
+22/02/2019,West Ham,Fulham,3,1,H,L Mason
+23/02/2019,Bournemouth,Wolves,1,1,D,R East
+23/02/2019,Burnley,Tottenham,2,1,H,M Dean
+23/02/2019,Leicester,Crystal Palace,1,4,A,A Taylor
+23/02/2019,Newcastle,Huddersfield,2,0,H,K Friend
+24/02/2019,Arsenal,Southampton,2,0,H,G Scott
+24/02/2019,Man United,Liverpool,0,0,D,M Oliver
+26/02/2019,Cardiff,Everton,0,3,A,K Friend
+26/02/2019,Huddersfield,Wolves,1,0,H,D Coote
+26/02/2019,Leicester,Brighton,2,1,H,L Probert
+26/02/2019,Newcastle,Burnley,2,0,H,C Pawson
+27/02/2019,Arsenal,Bournemouth,5,1,H,C Kavanagh
+27/02/2019,Chelsea,Tottenham,2,0,H,A Marriner
+27/02/2019,Crystal Palace,Man United,1,3,A,M Atkinson
+27/02/2019,Liverpool,Watford,5,0,H,G Scott
+27/02/2019,Man City,West Ham,1,0,H,S Attwell
+27/02/2019,Southampton,Fulham,2,0,H,A Taylor
+02/03/2019,Bournemouth,Man City,0,1,A,K Friend
+02/03/2019,Brighton,Huddersfield,1,0,H,M Dean
+02/03/2019,Burnley,Crystal Palace,1,3,A,L Probert
+02/03/2019,Man United,Southampton,3,2,H,S Attwell
+02/03/2019,Tottenham,Arsenal,1,1,D,A Taylor
+02/03/2019,West Ham,Newcastle,2,0,H,C Kavanagh
+02/03/2019,Wolves,Cardiff,2,0,H,A Marriner
+03/03/2019,Everton,Liverpool,0,0,D,M Atkinson
+03/03/2019,Fulham,Chelsea,1,2,A,G Scott
+03/03/2019,Watford,Leicester,2,1,H,J Moss
+09/03/2019,Cardiff,West Ham,2,0,H,G Scott
+09/03/2019,Crystal Palace,Brighton,1,2,A,C Pawson
+09/03/2019,Huddersfield,Bournemouth,0,2,A,A Taylor
+09/03/2019,Leicester,Fulham,3,1,H,D Coote
+09/03/2019,Man City,Watford,3,1,H,P Tierney
+09/03/2019,Newcastle,Everton,3,2,H,L Mason
+09/03/2019,Southampton,Tottenham,2,1,H,K Friend
+10/03/2019,Arsenal,Man United,2,0,H,J Moss
+10/03/2019,Chelsea,Wolves,1,1,D,M Oliver
+10/03/2019,Liverpool,Burnley,4,2,H,A Marriner
+16/03/2019,Bournemouth,Newcastle,2,2,D,M Dean
+16/03/2019,Burnley,Leicester,1,2,A,M Oliver
+16/03/2019,West Ham,Huddersfield,4,3,H,J Moss
+17/03/2019,Everton,Chelsea,2,0,H,A Taylor
+17/03/2019,Fulham,Liverpool,1,2,A,C Pawson
+30/03/2019,Brighton,Southampton,0,1,A,M Oliver
+30/03/2019,Burnley,Wolves,2,0,H,C Kavanagh
+30/03/2019,Crystal Palace,Huddersfield,2,0,H,L Probert
+30/03/2019,Fulham,Man City,0,2,A,K Friend
+30/03/2019,Leicester,Bournemouth,2,0,H,L Mason
+30/03/2019,Man United,Watford,2,1,H,S Attwell
+30/03/2019,West Ham,Everton,0,2,A,P Tierney
+31/03/2019,Cardiff,Chelsea,1,2,A,C Pawson
+31/03/2019,Liverpool,Tottenham,2,1,H,M Atkinson
+01/04/2019,Arsenal,Newcastle,2,0,H,A Taylor
+02/04/2019,Watford,Fulham,4,1,H,R East
+02/04/2019,Wolves,Man United,2,1,H,M Dean
+03/04/2019,Chelsea,Brighton,3,0,H,G Scott
+03/04/2019,Man City,Cardiff,2,0,H,J Moss
+03/04/2019,Tottenham,Crystal Palace,2,0,H,A Marriner
+05/04/2019,Southampton,Liverpool,1,3,A,P Tierney
+06/04/2019,Bournemouth,Burnley,1,3,A,M Atkinson
+06/04/2019,Huddersfield,Leicester,1,4,A,D Coote
+06/04/2019,Newcastle,Crystal Palace,0,1,A,S Attwell
+07/04/2019,Everton,Arsenal,1,0,H,K Friend
