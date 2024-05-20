@@ -1,8 +1,8 @@
-import { MatchType } from './types.d.js';
+import { MatchType, headType } from './types.js';
 import fs from 'fs';
 import { stringToDate } from './utils.js';
 
-export class CsvFileReader {
+export class MatchesReader {
   public matches: MatchType[] = [];
 
   constructor(private _filePath: string, private headers: string[]) {}
@@ -16,7 +16,7 @@ export class CsvFileReader {
       let match = {} as MatchType;
 
       this.headers.forEach((header, index) => {
-        let value: Date | number | string = columns[index];
+        let value: headType = columns[index];
         if (header === 'date') {
           value = stringToDate(value);
         } else if (header === 'homeTeamGoals' || header === 'awayTeamGoals') {

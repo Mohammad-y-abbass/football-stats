@@ -1,9 +1,11 @@
 export interface MatchType {
-  date: string;
+  date: Date;
   homeTeam: string;
   awayTeam: string;
-  homeTeamGoals: string;
-  awayTeamGoals: string;
+  homeTeamGoals: number;
+  awayTeamGoals: number;
   matchResult: string;
   referee: string;
 }
+
+export type headType = Date | string | number;

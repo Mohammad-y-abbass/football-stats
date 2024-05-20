@@ -1,4 +1,5 @@
-import { CsvFileReader } from './CsvFileReader.js';
+import { Analyzer } from './Analyzer.js';
+import { MatchesReader } from './MatchesReader.js';
 
 const headers = [
   'date',
@@ -10,6 +11,18 @@ const headers = [
   'referee',
 ];
 
-const reader = new CsvFileReader('football.csv', headers);
+const reader = new MatchesReader('football.csv', headers);
 reader.readFile();
-reader.allMatches();
+const analyser = new Analyzer(reader.matches);
+const totalManUnitedGoals = analyser.totalTeamGoalsScored('Man United');
+console.log(totalManUnitedGoals);
+const manUnitedWins = analyser.totalTeamWins('Man United');
+console.log(manUnitedWins);
+const manUnitedGoalsConceded = analyser.totalTeamGoalsConceded('Man United');
+console.log(manUnitedGoalsConceded);
+const manUnitedGoalDifference = analyser.teamGoalDifference('Man United');
+console.log(manUnitedGoalDifference);
+const manUnitedLosses = analyser.totalTeamLosses('Man United');
+console.log(manUnitedLosses);
+const manUnitedDraws = analyser.totalTeamDraws('Man United');
+console.log(manUnitedDraws);
