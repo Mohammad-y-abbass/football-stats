@@ -1,13 +1,13 @@
 import { CsvFileReader } from './CsvFileReader.js';
 
 const headers = [
-  'Date',
-  'HomeTeam',
-  'AwayTeam',
-  'FTHG',
-  'FTAG',
-  'FTR',
-  'Referee',
+  'date',
+  'homeTeam',
+  'awayTeam',
+  'homeTeamGoals',
+  'awayTeamGoals',
+  'winner',
+  'referee',
 ];
 
 const reader = new CsvFileReader('football.csv', headers);
